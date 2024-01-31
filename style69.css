@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap');
+body {
+    margin: auto;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+main, footer {
+    background-color: rgba(160, 68, 68, 0.319);
+    margin-top: -30px;
+}
+h1 {
+    display: flex;
+    color: rgb(6, 119, 248);
+    justify-content: flex-start;
+    font-size: 15px;
+    margin-left: 50px;
+}
+
+.first {
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 10px;
+}
+
+.ktr {
+    padding: 3px;
+}
+
+.ngt {
+    display: flex;
+    color: rgb(133, 123, 123);
+    list-style: none;
+    margin: 30px;
+    width: 200px;
+    font-size: 15px;
+}
+
+h2 {
+    color: rgb(6, 119, 248);
+    font-size: 35px;
+    margin-left: 380px;
+}
+
+h3 {
+    font-size: 25px;
+    color: rgb(159, 12, 37);
+}
+
+.dre {
+    height: 300px;
+    width: 700px;
+}
+
+.dri {
+    background-color: rgba(245, 240, 240, 0.692);
+    height: 150px;
+    width: 150px;
+    display: flex;
+    border-radius: 15px;
+    margin: 20px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.dfe {
+    background-color: white;
+    height: 230px;
+    width: 900px;
+    border-radius: 15px;
+    display: flex;
+}
+
+h4 {
+    color: rgb(230, 12, 121);
+    font-size: 20px;
+}
+
+section {
+    margin-left: 250px;
+}
+
+.kre {
+    width: 700px;
+}
+
+h5 {
+    font-size: 13px;
+    margin-top: -10px;
+}
+
+.dfy {
+    background-color: white;
+    height: 200px;
+    width: 900px;
+    border-radius: 15px;
+    display: flex;
+}
+
+.gf {
+    margin-top: -17px;
+}
+
+.fon {
+    height: 650px;
+    width: 900px;
+    background-color: white;
+    margin-top: 80px;
+    border-radius: 15px;
+}
+
+.cre {
+    font-size: 30px;
+    color: rgb(230, 12, 121);
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+.xsw {
+    display: flex;
+    align-items: baseline;
+}
+
+i {
+    font-size: 30px;
+    margin-left: 20px;
+    color: rgb(230, 12, 121);
+}
+
+.vgr {
+    display: flex;
+    color: black;
+    font-size: 25px;
+    list-style: none;
+}
+
+.berf {
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 5px;
+}
+
+.ber {
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 5px;
+
+}
+
+.bsw {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.cry {
+    font-size: 30px;
+    color: rgb(230, 12, 121);
+    padding-top: 40px;
+    padding-left: 40px;
+}

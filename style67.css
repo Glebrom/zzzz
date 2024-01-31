@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap');
+body {
+    width: 1024px;
+    margin: auto;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+ul {
+    display: flex;
+    color: rgb(133, 123, 123);
+    list-style: none;
+    margin: 30px;
+    width: 200px;
+    font-size: 15px;
+}
+
+h1 {
+    display: flex;
+    color: rgb(6, 119, 248);
+    justify-content: flex-start;
+    font-size: 15px;
+}
+.first {
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 10px;
+}
+
+li {
+    padding: 3px;
+}
+
+.cf {
+    background-color: rgb(6, 119, 248);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    font-size: 10px;
+}
+
+.div1 {
+    margin-top: 100px;
+    margin-right: 200px;
+}
+
+span {
+    font-size: 20px;
+}
+
+.fot {
+    color: rgb(146, 132, 132);
+    font-size: 20px;
+    margin-top: 45px;
+}
+
+.cvet {
+    font-size: 45px;
+    color: rgb(6, 119, 248);
+}
+
+.er {
+    background-image: url("photo_2024-01-20 15.35.09.jpeg");
+    background-size: cover;
+    background-position: right;
+    display: flex;
+    height: 500px;
+    width: 500px;
+    border-radius: 20px;
+    margin-top: 60px;
+}
+
+section {
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+}
+
+.xs {
+    color: black;
+    border-radius: 5px;
+    padding: 10px 30px 10px 30px;
+    border: 1px solid black;
+    margin-right: 100px;
+}
+
+.xd {
+    color: white;
+    background-color: rgb(6, 119, 248);
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px 30px 10px 30px;
+}
+
+.v {
+    display: flex;
+    margin-top: 100px;
+}
+
+.svet {
+    margin-top: -25px;
+}
+
+.vfr {
+    display: flex;
+    margin-top: 150px;
+    justify-content: space-around;
+    font-size: 35px;
+    color: rgb(159, 12, 37);
+}
+
+.foot {
+    background-color: rgb(247, 242, 242);
+    height: 360px;
+}
+
+.fo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(115, 118, 121);
+}
+
+.pg {
+    width: 800px;
+    color: rgb(127, 129, 131);
+}
+
+i {
+    font-size: 30px;
+    color: #aa183c;
+}
+
+.fd {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+i:nth-child(1) {
+    margin-right: 20px;
+}
+
+i:nth-child(3) {
+    margin-left: 20px;
+}

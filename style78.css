@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap');
+
+body {
+    margin: auto;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+main {
+    background-color: rgba(160, 68, 68, 0.319);
+    margin-top: -30px;
+}
+
+h1 {
+    display: flex;
+    color: rgb(6, 119, 248);
+    justify-content: flex-start;
+    font-size: 15px;
+    margin-left: 50px;
+}
+
+.first {
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 10px;
+}
+
+.ktr {
+    padding: 3px;
+}
+
+.ngt {
+    display: flex;
+    color: rgb(133, 123, 123);
+    list-style: none;
+    margin: 30px;
+    width: 200px;
+    font-size: 15px;
+}
+
+section {
+    margin-left: 250px;
+}
+
+.rty {
+    color: rgb(6, 119, 248);
+    font-size: 35px;
+    margin-left: 380px;
+}
+
+.fi {
+    background-color: white;
+    height: 400px;
+    width: 900px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.ew {
+    border-radius: 0px 15px 15px 0px;
+    background-color: rgba(245, 240, 240, 0.692);
+    width: 300px;
+    height: 400px;
+
+}
+
+img {
+    height: 400px;
+    width: 300px;
+    border-radius: 0px 15px 15px 0px;
+}
+.er {
+    width: 600px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.ir {
+    font-size: 30px;
+    color: rgb(230, 12, 121);
+}
+
+.vf {
+    width: 500px;
+    margin-top: 50px;
+}
+
+.xs {
+    color: black;
+    border-radius: 5px;
+    padding: 10px 30px 10px 30px;
+    border: 1px solid black;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(230, 12, 121);
+    margin-top: 80px;
+}
+
+footer {
+    background-color: rgb(230, 12, 121);
+    height: 500px;
+}
+
+.gfd {
+    color: white;
+    font-size: 40px;
+}
+
+.vbn {
+    margin-left: 450px;
+    padding-top: 100px;
+}
+
+.mn {
+    color:white;
+    text-decoration: none;
+    background-color: rgb(230, 12, 121);
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px 30px 10px 30px;
+    font-size: 25px;
+    margin-left: 580px;
+}
+
+.xde {
+    margin-top: 100px;
+}
